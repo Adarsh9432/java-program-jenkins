@@ -6,7 +6,7 @@ public class Main{
         System.out.println(new java.util.Date());
          System.out.println("Added a new line");
          Student s = new Student();
-         s.sayHello()
+         s.sayHello();
         
 
     }
