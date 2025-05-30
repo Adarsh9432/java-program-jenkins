@@ -4,6 +4,7 @@ public class Main{
         System.out.println("Output from java program");
         System.out.println("Hello");
         System.out.println(new java.util.Date());
+         System.out.println("Added a new line");
         
 
     }
